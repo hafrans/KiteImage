@@ -1,0 +1,12 @@
+# GITATTR
+# Hafrans Sep 17, 2019
+#
+
+
+
+*.xml text=auto
+
+*.jpg -text
+*.png -text
+*.jpeg -text
+*.gif -text
